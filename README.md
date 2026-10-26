@@ -1,9 +1,9 @@
 Hi, it's Felix(Yifan) Tian
 
 I'm
-- Biochemistry & Computer Science major at UT Austin
+- Cell Biology & Computer Science major at UT Austin
 - Undergraduate research assistant in the Can Cenik Lab
-- Beginner runner
+- Runner
 
 I like
 - Music 🎷, travelling ✈️, reading 📖
